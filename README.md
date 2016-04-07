@@ -12,3 +12,5 @@
 * git status -> met la liste des fichiers qui ont été modifié
 * git add . -> ajoute tous les fichiers qui ont été modifié (ca les prépare au commit)
 * git reset HEAD . -> fait l'inverse du add, ça les enleve de la préparation du commit (on peux aussi indiquer un fichier précis) 
+* git commit -m "commentaire" -> créer une version des fichiers modifier
+* git push -> envoie sur le serv les dernieres versions qui ont été commit
